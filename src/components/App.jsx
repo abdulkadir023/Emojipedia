@@ -2,7 +2,6 @@ import React from "react";
 import Entry from "./Entry";
 import emojipedia from "../emojipedia";
 
-console.log(emojipedia);
 
 function CreateEmojipedia(emoji) {
   return (

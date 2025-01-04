@@ -27,6 +27,9 @@ h1 span {
   margin: 4rem auto;
   max-width: 90%;
 }
+.dictionary:hover {
+  transform: translate(1);
+}
 
 .dictionary > .term {
   text-align: center;
@@ -37,6 +40,10 @@ h1 span {
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
   transition: all 100ms ease-in-out;
+}
+
+.dictionary > .term:hover {
+  transform: translate(1);
 }
 
 .dictionary > .term > dt {
