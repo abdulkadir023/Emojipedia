@@ -2,10 +2,9 @@
 
 A fun, interactive app that displays a collection of emojis, their names, and their meanings. Built with React, it showcases the power of dynamic rendering and component-based architecture.
 
-## Live Demo
+## Screeenshot
 
-You can view the live version of the website at:  
-[Emojipedia Live](https://your-vercel-url.vercel.app)
+![My Project Screenshot](./public/emojipedia.png)
 
 ## Table of Contents
 
